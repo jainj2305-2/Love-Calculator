@@ -1,5 +1,4 @@
-#Love-Calculator
-
+# Love-Calculator
 Just another use pf API with database.
 
 Database is used for storing user's inputs, result, time and system details.
